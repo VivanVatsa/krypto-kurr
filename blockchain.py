@@ -62,12 +62,12 @@ class Blockchain:
             block.previous_hash = self.chain[-1].get('hash')
         except IndexError:
             pass
-        
+
         while True:
             if block.hash([:4]) == "0" * difficulty:
                 self.add(block)
                 break
-            
+
             else:
                 block.nonce +=1
 
@@ -75,7 +75,7 @@ class Blockchain:
 def main():
     blockchain = Blockchain()
     database = ["hello world", "what's up", "hello", "bye"]
-    
+
     num = 0
     for data in database:
         num += 1
