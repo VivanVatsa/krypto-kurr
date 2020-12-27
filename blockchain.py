@@ -49,6 +49,8 @@ class Blockchain:
     # just appending a list to a dictionary
 
     def add(self, block):
+        # created this chunk of blockchain as a dictionary object
+
         self.chain.append({
             "hash": block.hash(),
             "previous": block.previous_hash,
