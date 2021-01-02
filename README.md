@@ -1,2 +1,3 @@
 # kal-el-krypto
-Creating a Personal CryptoCurrency and Learning the BlockChain Technology. 
+
+-> Creating a Personal CryptoCurrency and Learning the BlockChain.
