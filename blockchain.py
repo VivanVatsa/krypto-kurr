@@ -68,7 +68,8 @@ class Blockchain:
     #
     def mine(self, block):
         try:
-            block.previous_hash = self.chain[-1].get("hash")
+            # block.previous_hash = self.chain[-1].get("hash")
+            block.previous_hash = self.chain[-1].hash()
         except IndexError:
             pass
 
@@ -89,6 +90,7 @@ def main():
     for data in database:
         num += 1
         blockchain.mine(Block(data, num))
+
     for block in blockchain.chain:
         print(block)
     # block = Block("hello world", 1)
