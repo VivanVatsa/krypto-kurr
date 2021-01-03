@@ -105,6 +105,9 @@ def main():
         print(block)
     # block = Block("hello world", 1)
     # print(block)
+    blockchain.chain[2].data = "NEW DATA"
+
+    blockchain.mine(blockchain.chain[2])
     print(blockchain.isValid())
 
 
