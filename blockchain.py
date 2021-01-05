@@ -48,17 +48,6 @@ class Blockchain:
     # this is for adding a new block in blockchain
     # just appending a list to a dictionary
 
-    # def add(self, block):
-    #     # created this chunk of blockchain as a dictionary object
-
-    #     self.chain.append({
-    #         "hash": block.hash(),
-    #         "previous": block.previous_hash,
-    #         "number": block.number,
-    #         "data": block.data,
-    #         "nonce": block.nonce,
-    #     })
-
     def add(self, block):
         self.chain.append(block)
 
