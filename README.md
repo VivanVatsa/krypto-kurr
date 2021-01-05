@@ -1,3 +1,3 @@
 # kal-el-krypto
 -----------------------
-Creating a Personal CryptoCurrency and Learning BlockChain.
+Decentralisation Project: Personalised CryptoCurrency with using BlockChain technology
