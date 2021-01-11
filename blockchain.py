@@ -54,7 +54,7 @@ class Blockchain:
     def remove(self, block):
         self.chain.remove(block)
 
-    #
+    #clearq
     def mine(self, block):
         try:
             # block.previous_hash = self.chain[-1].get("hash")
