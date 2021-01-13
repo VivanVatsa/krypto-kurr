@@ -1,9 +1,0 @@
-C:/Users/Vivan/Documents/GitHub/kal-el-krypto/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/Vivan/Documents/GitHub/kal-el-krypto/build/CMakeFiles/Experimental.dir
-C:/Users/Vivan/Documents/GitHub/kal-el-krypto/build/CMakeFiles/Continuous.dir
-C:/Users/Vivan/Documents/GitHub/kal-el-krypto/build/CMakeFiles/Nightly.dir
-C:/Users/Vivan/Documents/GitHub/kal-el-krypto/build/CMakeFiles/PACKAGE.dir
-C:/Users/Vivan/Documents/GitHub/kal-el-krypto/build/CMakeFiles/bl.dir
-C:/Users/Vivan/Documents/GitHub/kal-el-krypto/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/Vivan/Documents/GitHub/kal-el-krypto/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Vivan/Documents/GitHub/kal-el-krypto/build/CMakeFiles/ZERO_CHECK.dir
