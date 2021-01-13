@@ -2,5 +2,5 @@
 -----------------------
 Decentralisation Project: Personalised CryptoCurrency using BlockChain technology
 -----------------------
-- learning blockchain by making it personally
+- learning cyrptocurrency by creating it, personally
 - implementation of blockchain technology
