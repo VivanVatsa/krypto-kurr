@@ -1,4 +1,4 @@
-# kal-el-krypto
+# krypto-kurr
 -----------------------
 Decentralisation Project: Personalised CryptoCurrency using BlockChain technology
 -----------------------
